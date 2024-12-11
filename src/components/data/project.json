@@ -19,7 +19,7 @@
     "key": 3,
     "title": "Banking Website",
     "imageSrc": "assets/hero/bank.png",
-    "description": "Hoobank is a banking application that provides a user-friendly interface.",
+    "description": "Banking application that provides a user-friendly interface.",
     "demo": "https://bank-demo-mu.vercel.app/",
     "source": "https://github.com/alispatel111/Bank-website"
   }
