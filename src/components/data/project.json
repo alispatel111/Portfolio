@@ -1,0 +1,26 @@
+[
+  {
+    "key": 1,
+    "title": "Dashboard",
+    "imageSrc": "assets/hero/logo.jpg",
+    "description": "Dashboard, built with React, features interactive charts, graphs,etc.",
+    "demo": "https://dashboard-beta-rose.vercel.app/",
+    "source": "https://github.com/alispatel111/Dashboard"
+  },
+  {
+    "key": 2,
+    "title": "TODO List",
+    "imageSrc": "assets/hero/todo.jpg",
+    "description": "Todo List application using React, with Toastify integrated for displaying notifications.",
+    "demo": "https://todo-list-tan-alpha-65.vercel.app/",
+    "source": "https://github.com/alispatel111/todo-list"
+  },
+  {
+    "key": 3,
+    "title": "Banking Website",
+    "imageSrc": "assets/hero/bank.png",
+    "description": "Hoobank is a banking application that provides a user-friendly interface.",
+    "demo": "https://bank-demo-mu.vercel.app/",
+    "source": "https://github.com/alispatel111/Bank-website"
+  }
+]
